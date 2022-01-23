@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\bin\Debug\net6.0\Cursocfb_cs.exe
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\bin\Debug\net6.0\Cursocfb_cs.deps.json
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\bin\Debug\net6.0\Cursocfb_cs.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\bin\Debug\net6.0\Cursocfb_cs.dll
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\bin\Debug\net6.0\ref\Cursocfb_cs.dll
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\bin\Debug\net6.0\Cursocfb_cs.pdb
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.dll
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\ref\Cursocfb_cs.dll
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.pdb
+C:\Users\harry\Desktop\My-Projects\Csharp-cfb\Aulas\Aula01\ConsoleApp1\obj\Debug\net6.0\Cursocfb_cs.genruntimeconfig.cache
